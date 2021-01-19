@@ -1,5 +1,5 @@
 # Authentication-System-Nodejs (Login-Register-Nodejs)
-A simple Login/Register application developed in Nodejs using Express.
+A simple Login/Register application developed in Nodejs using Express for the teaching class
 
 # Getting started
 
